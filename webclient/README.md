@@ -3,7 +3,7 @@
 ## Objectif 
 * Mettre en place Eureka Server
 * Enregistrer des microservices (Eureka Client)
-* Utiliser application.yml (YAML)
+* Utiliser application.yml (YAML)bbb
 * Appeler un service par son nom Eureka avec WebClient
 * Tester progressivement (dashboard Eureka + endpoints REST
 
